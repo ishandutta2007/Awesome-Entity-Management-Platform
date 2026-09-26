@@ -66,11 +66,11 @@ The following table details leading hosted platforms designed for legal, tax, fi
 
 ## ⚡ Open-Source GitHub Projects
 
-> **Sorted by GitHub Star Count (Descending)**
+> **Sorted by GitHub Stars_Count (Descending)**
 
 Open-source building blocks, self-hosted applications, databases, document management engines, workflow orchestrators, and open standards for constructing custom entity management systems.
 
-| 📦 Project & Description | ⭐ GitHub Stars | 🏷️ Category & Tech Stack |
+| 📦 Project & Description | ⭐ GitHub_Stars | 🏷️ Category & Tech Stack |
 | :--- | :--- | :--- |
 | **[Supabase](https://github.com/supabase/supabase)** — Open-source Firebase alternative providing relational Postgres databases, auth, and APIs for custom entity management backends. | [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social)](https://github.com/supabase/supabase/stargazers) | 🗄️ Backend / Database |
 | **[Grafana](https://github.com/grafana/grafana)** — Observability & visualization platform for building entity-compliance calendars, KPI metrics, and filing deadline dashboards. | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) | 📊 Analytics & Dashboards |
